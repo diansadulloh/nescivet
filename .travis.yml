@@ -1,4 +1,4 @@
-language: node_js
+language: html
 sudo: enabled
 dist: trusty
 os: linux
